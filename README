@@ -29,7 +29,7 @@ Procedure:
 --------------
 Login as root to your CentOS/RHEL 7.7 VM host
 cd /root
-git clone https://github.com/acd13/IsilonCSIDriver_Env_Installation.git
+git clone https://github.com/acd13/IsilonCSIDriver_Env_Installation-1.2.git
 cd IsilonCSIDriver_Env_Installation
 cp *.sh /root/
 ./docker_install.sh (it's interactive script, complete it to get docker working)
